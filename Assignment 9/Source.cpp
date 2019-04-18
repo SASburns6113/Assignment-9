@@ -46,7 +46,7 @@ void getBankAccount()
 	else if (getUsername == "drevil")
 	{
 		int& drevil = drEvil; 
-		drevil == 0;
+		drevil = 0;
 		cout << "recent transaction to puppy farms worldwide.\naccount balance: $" << drevil << endl;
 
 	}
