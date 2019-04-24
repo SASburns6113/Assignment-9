@@ -5,7 +5,6 @@ using namespace std;
 
 string getUsername;
 int drEvil = 100000000;
-//int& drevil = drEvil;
 string bankAccountName();
 void getBankAccount();
 
